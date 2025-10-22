@@ -1,72 +1,183 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>QPONG</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QPONG - Q2 Downloads</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
+    body {
+      font-family: 'Arial', sans-serif;
+      background: #000000;
+      color: #c0c0c0;
+      min-height: 100vh;
+    }
+
+    /* Navigation Sidebar */
+    .nav-sidebar {
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 200px;
+      height: 100vh;
+      background: rgba(15, 20, 35, 0.95);
+      padding: 0;
+      box-shadow: 4px 0 20px rgba(0, 0, 0, 0.5);
+      z-index: 1000;
+    }
+
+    .logo-section {
+      text-align: center;
+      margin-bottom: 60px;
+    }
+
+    .logo-section img {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      border-radius: 0;
+      display: block;
+    }
+
+    .logo-section .tagline {
+      font-size: 12px;
+      color: #888;
+      font-style: italic;
+      padding: 8px 10px 0 10px;
+    }
+
+    .nav-menu {
+      background: rgba(25, 30, 45, 0.8);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+      margin: 0 20px;
+    }
+
+    .nav-menu a {
+      display: block;
+      padding: 14px 18px;
+      color: #fff;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      background: linear-gradient(135deg, #d35400 0%, #e67e22 100%);
+      border-bottom: 2px solid #0a0e27;
+      transition: all 0.3s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .nav-menu a::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -100%;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(135deg, #e67e22 0%, #f39c12 100%);
+      transition: left 0.3s ease;
+      z-index: -1;
+    }
+
+    .nav-menu a:hover::before {
+      left: 0;
+    }
+
+    .nav-menu a:hover {
+      transform: translateX(5px);
+      box-shadow: 0 4px 15px rgba(230, 126, 34, 0.5);
+    }
+
+    .nav-menu a.active {
+      background: linear-gradient(135deg, #c0392b 0%, #e74c3c 100%);
+    }
+
+    .nav-menu a:last-child {
+      border-bottom: none;
+      border-radius: 0 0 12px 12px;
+    }
+
+    /* Main Content */
+    .main-content {
+      margin-left: 220px;
+      padding: 40px;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      .nav-sidebar {
+        width: 180px;
+      }
+
+      .main-content {
+        margin-left: 200px;
+        padding: 20px;
+      }
+
+      .nav-menu a {
+        padding: 12px 15px;
+        font-size: 13px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .nav-sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+      }
+
+      .main-content {
+        margin-left: 0;
+        padding: 15px;
+      }
+    }
+
+    /* Content link colors */
+    .main-content a {
+      color: #FFFF00;
+    }
+
+    .main-content a:visited {
+      color: #00FFFF;
+    }
+
+    .main-content a:active {
+      color: #FF0000;
+    }
+  </style>
 </head>
 
-<body topmargin="0" leftmargin="0" link="#FFFF00" alink="#FF0000" vlink="#00FFFF" bgcolor="#050A15" text="#C0C0C0">
+<body>
 
-<table border="0" width="100%" height="308" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="177" height="308" valign="top" align="center">
-      <div align="center">
+  <!-- Navigation Sidebar -->
+  <nav class="nav-sidebar">
+    <div class="logo-section">
+      <img src="qplogomos.jpg" alt="QPong Logo">
+      <div class="tagline">Got Balls? Play Qpong!</div>
+    </div>
 
-      <center>
+    <div class="nav-menu">
+      <a href="index.html">Main</a>
+      <a href="download.html" class="active">Download</a>
+      <a href="screenshots.html">Screenshots</a>
+    </div>
+  </nav>
 
-      <table border="0" width="97" cellspacing="0" cellpadding="0">
-        <tr>
-          <td width="100%">
-            <p align="center"><img border="0" src="qplogomos.jpg" width="161" height="84" align="center"><br>
-            <font size="2">Got Balls? Play Qpong!</font>
-          </td>
-        </tr>
-        <tr>
-          <td width="100">
-            &nbsp;
-            <p>&nbsp;
-          </td>
-        </tr>
-        <tr>
-          <td width="100%">
-            <p align="center"><img border="0" src="mmtop.jpg" width="175" height="86"></td>
-        </tr>
-        <tr>
-          <td width="100%">
-            <p align="center"><a href="index.html"><img border="0" src="mmmain.jpg" width="175" height="33"></a></td>
-        </tr>
-        <tr>
-          <td width="100%">
-            <p align="center"><a href="download.html"><img border="0" src="mmdownload.jpg" width="175" height="33"></a></td>
-        </tr>
-        <tr>
-          <td width="100%">
-            <p align="center"><a href="screenshots.html"><img border="0" src="mmscreenshots.jpg" width="175" height="33"></a></td>
-        </tr>
-        <tr>
-          <td width="100%">
-            <p align="center"><img border="0" src="mmbottom.jpg" width="175" height="20"></td>
-        </tr>
-      </table>
+  <!-- Main Content -->
+  <div class="main-content">
 
-      </center>
 
-      </div>
-      <p align="center"></p>
-    </td>
-    
-    <td width="811" height="308"valign="top" align="left" bordercolor="#000000">
-
-          <table border="0" width="90%" cellpadding="0" height="100%" cellspacing="12">
-            <tr>
-              <td width="100%">
-
-              
-              <p align="center"><br>
-              <img border="0" src="downloads.jpg" width="478" height="64"></p>
+              <p align="center"><br><font face="vedana" size="8" color="C0C0C0">Q2Pong Downloads</font></p>
+              <p align="center">&nbsp;</p>
               <p align="center"><font color="#FFFFFF" size="4">Here you will find the basic files you will need
               to get QPong set up or to run a server.&nbsp; I also recommend
               that you download the additional maps and skins.&nbsp;
@@ -416,10 +527,8 @@
               </div>
               <p align="center"><font size="1">contact me @: <a href="mailto:scott@hypexr.org">scott@hypexr.org</a></font></p>
               <p align="center">&nbsp;</p>
-              </td>
-            </tr>
-          </table>
-</table>
-</body>
 
+  </div> <!-- End main-content -->
+
+</body>
 </html>
