@@ -1,0 +1,598 @@
+[Mon Nov 20 16:26:56 2000] [error] [client 192.168.0.1] File does not exist: c:/qpong/kqpmap.zip
+[Mon Nov 20 16:27:49 2000] [error] [client 192.168.0.1] File does not exist: c:/qpong/kqpmap.zip
+[Mon Nov 20 20:42:50 2000] [error] [client 192.168.0.1] File does not exist: c:/qpong/kqpmap.zip
+[Wed Nov 22 17:42:01 2000] [error] [client 64.163.240.236] File does not exist: c:/qpong/favicon.ico
+[Thu Nov 23 17:42:48 2000] [error] [client 64.208.37.60] File does not exist: c:/qpong/robots.txt
+[Fri Nov 24 00:28:00 2000] [error] [client 64.208.37.2] File does not exist: c:/qpong/robots.txt
+[Fri Nov 24 04:23:19 2000] [error] [client 64.208.37.78] File does not exist: c:/qpong/robots.txt
+[Fri Nov 24 18:04:18 2000] [error] [client 64.208.37.60] File does not exist: c:/qpong/robots.txt
+[Fri Nov 24 22:15:53 2000] [error] [client 64.208.37.7] File does not exist: c:/qpong/robots.txt
+[Sat Nov 25 00:30:15 2000] [error] [client 64.208.37.53] File does not exist: c:/qpong/robots.txt
+[Sat Nov 25 02:08:14 2000] [error] [client 24.115.147.86] File does not exist: c:/qpong/favicon.ico
+[Sat Nov 25 15:18:41 2000] [error] [client 24.28.12.210] File does not exist: c:/qpong/favicon.ico
+[Sat Nov 25 19:38:41 2000] [error] [client 24.28.7.109] File does not exist: c:/qpong/favicon.ico
+[Sun Nov 26 02:18:51 2000] [error] [client 203.97.2.247] File does not exist: c:/qpong/favicon.ico
+[Sun Nov 26 03:05:52 2000] [error] [client 192.168.0.1] (2)No such file or directory: script not found or unable to stat: c:/program files/apache group/apache/cgi-bin/counter.exe
+[Sun Nov 26 08:06:22 2000] [error] [client 192.168.0.1] (2)No such file or directory: script not found or unable to stat: c:/program files/apache group/apache/cgi-bin/counter.exe
+[Sun Nov 26 08:07:15 2000] [error] [client 24.112.204.139] (2)No such file or directory: script not found or unable to stat: c:/program files/apache group/apache/cgi-bin/counter.exe
+[Sun Nov 26 10:06:25 2000] [error] [client 12.14.120.2] Invalid method in request http://%a:%p/,HEAD /
+[Tue Nov 28 06:41:37 2000] [error] [client 195.92.67.50] File does not exist: c:/qpong/favicon.ico
+[Tue Nov 28 10:45:21 2000] [error] [client 213.46.8.243] File does not exist: c:/qpong/favicon.ico
+[Wed Nov 29 03:43:56 2000] [error] [client 63.224.136.123] File does not exist: c:/qpong/favicon.ico
+[Thu Nov 30 20:47:28 2000] [error] [client 24.4.255.113] File does not exist: c:/qpong/favicon.ico
+[Fri Dec 01 05:34:14 2000] [error] [client 24.2.233.103] File does not exist: c:/qpong/favicon.ico
+[Sun Dec 03 04:39:53 2000] [error] [client 64.208.37.66] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 01:59:16 2000] [error] [client 24.64.193.84] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 04:04:52 2000] [error] [client 139.175.57.200] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 06:00:40 2000] [error] [client 128.248.248.56] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 14:00:23 2000] [error] [client 213.36.142.29] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 14:01:48 2000] [error] [client 213.36.142.29] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 14:06:12 2000] [error] [client 213.36.142.29] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 16:44:15 2000] [error] [client 217.0.172.174] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 17:34:42 2000] [error] [client 62.180.203.58] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 17:40:58 2000] [error] [client 24.68.66.91] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 17:45:30 2000] [error] [client 195.220.72.19] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 18:51:57 2000] [error] [client 152.67.220.120] File does not exist: c:/qpong/robots.txt
+[Mon Dec 04 23:42:01 2000] [error] [client 152.67.220.120] File does not exist: c:/qpong/robots.txt
+[Tue Dec 05 02:05:37 2000] [error] [client 202.145.57.173] File does not exist: c:/qpong/robots.txt
+[Tue Dec 05 04:40:10 2000] [error] [client 64.209.181.53] File does not exist: c:/qpong/robots.txt
+[Wed Dec 06 04:35:44 2000] [error] [client 64.208.37.66] File does not exist: c:/qpong/robots.txt
+[Wed Dec 06 19:08:46 2000] [error] [client 204.123.28.33] File does not exist: c:/qpong/robots.txt
+[Wed Dec 06 19:19:32 2000] [error] [client 209.202.148.30] File does not exist: c:/qpong/robots.txt
+[Thu Dec 07 06:18:22 2000] [error] [client 204.123.28.33] File does not exist: c:/qpong/robots.txt
+[Thu Dec 07 21:36:57 2000] [error] [client 204.123.28.33] File does not exist: c:/qpong/robots.txt
+[Thu Dec 07 23:34:30 2000] [error] [client 24.12.64.137] File does not exist: c:/qpong/favicon.ico
+[Fri Dec 08 04:37:05 2000] [error] [client 64.208.37.66] File does not exist: c:/qpong/robots.txt
+[Fri Dec 08 19:22:40 2000] [error] [client 204.123.28.33] File does not exist: c:/qpong/robots.txt
+[Sat Dec 09 04:36:58 2000] [error] [client 64.208.37.66] File does not exist: c:/qpong/robots.txt
+[Sat Dec 09 15:34:01 2000] [error] [client 212.17.72.163] File does not exist: c:/qpong/favicon.ico
+[Sun Dec 10 16:21:15 2000] [error] [client 212.50.179.145] File does not exist: c:/qpong/favicon.ico
+[Sun Dec 10 20:24:54 2000] [error] [client 24.4.252.11] File does not exist: c:/qpong/favicon.ico
+[Sun Dec 10 23:20:12 2000] [error] [client 63.231.78.165] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 11 02:04:16 2000] [error] [client 210.215.8.131] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 11 02:04:22 2000] [error] [client 210.215.8.131] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 11 05:56:48 2000] [error] [client 209.98.224.134] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 11 06:29:55 2000] [error] [client 208.236.151.90] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 11 10:56:17 2000] [error] [client 65.27.47.157] File does not exist: c:/qpong/favicon.ico
+[Tue Dec 12 11:01:42 2000] [error] [client 24.167.169.242] File does not exist: c:/qpong/favicon.ico
+[Wed Dec 13 00:02:09 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.access
+[Wed Dec 13 00:02:09 2000] [error] [client 12.0.251.66] client denied by server configuration: c:/qpong/.htaccess
+[Wed Dec 13 00:02:09 2000] [error] [client 12.0.251.66] client denied by server configuration: c:/qpong/.htpasswd
+[Wed Dec 13 00:02:09 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.members
+[Wed Dec 13 00:02:09 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.pass
+[Wed Dec 13 00:02:09 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.passwd
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.passes
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.passwords
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.pwd
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.users
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.passwrd
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/.password
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_bin/
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_bin/_vti_adm/
+[Wed Dec 13 00:02:10 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_bin/_vti_adm/admin.dll
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_cnf
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_cvt/
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_inf.html
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_pvt/administrators.pwd
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_inf.htm
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_pvt/authors.pwd
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_pvt/service.pwd
+[Wed Dec 13 00:02:11 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/_vti_pvt/users.pwd
+[Wed Dec 13 00:02:12 2000] [error] [client 12.0.251.66] File does not exist: c:/program files/apache group/apache/users//administrator/
+[Wed Dec 13 00:02:12 2000] [error] [client 12.0.251.66] File does not exist: c:/program files/apache group/apache/users//dat/
+[Wed Dec 13 00:02:12 2000] [error] [client 12.0.251.66] File does not exist: c:/program files/apache group/apache/users//admin/
+[Wed Dec 13 00:02:12 2000] [error] [client 12.0.251.66] File does not exist: c:/program files/apache group/apache/users//data/
+[Wed Dec 13 00:02:12 2000] [error] [client 12.0.251.66] File does not exist: c:/program files/apache group/apache/users//temp/
+[Wed Dec 13 00:02:13 2000] [error] [client 12.0.251.66] File does not exist: c:/program files/apache group/apache/users//root/
+[Wed Dec 13 00:02:13 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/access.log
+[Wed Dec 13 00:02:13 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/access.txt
+[Wed Dec 13 00:02:13 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/adminfiles/
+[Wed Dec 13 00:02:13 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/admin/
+[Wed Dec 13 00:02:13 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/access/
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/administrator/
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/billing/
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/backup/
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/adduser.cgi
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/adduser.html
+[Wed Dec 13 00:02:14 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/adduser.htm
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/admin.cgi
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/admin.htm
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/admin.html
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/admin/
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/admin.pl
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/log/
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/bin/logs/
+[Wed Dec 13 00:02:15 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/carbo.dll
+[Wed Dec 13 00:02:16 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cfdocs/expeval/openfile.cfm
+[Wed Dec 13 00:02:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/
+[Wed Dec 13 00:02:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/adduser.htm
+[Wed Dec 13 00:02:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/adduser.cgi
+[Wed Dec 13 00:02:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/adduser.html
+[Wed Dec 13 00:02:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/admin.cgi
+[Wed Dec 13 00:02:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/admin.htm
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/admin.html
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/admin.pl
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/admin/
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/log/
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/logs/
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/pin.txt
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi/pincodes.txt
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] attempt to invoke directory as script: c:/qpong/cgi-bin
+[Wed Dec 13 00:03:28 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/adduser.cgi
+[Wed Dec 13 00:03:29 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/adduser.html
+[Wed Dec 13 00:03:29 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/adduser.htm
+[Wed Dec 13 00:03:29 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/admin.html
+[Wed Dec 13 00:03:29 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/admin.htm
+[Wed Dec 13 00:03:29 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/admin.cgi
+[Wed Dec 13 00:03:30 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/admin.pl
+[Wed Dec 13 00:03:30 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/admin
+[Wed Dec 13 00:03:30 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/anyform2
+[Wed Dec 13 00:03:30 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/at-admin.cgi
+[Wed Dec 13 00:03:30 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/bnbform.cgi
+[Wed Dec 13 00:03:30 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi-win/uploader.exe
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/data/
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/websendmail
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/copy/
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] (2)No such file or directory: script not found or unable to stat: c:/qpong/cgi-bin/webdist.cgi
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/cgi-dos/args.bat
+[Wed Dec 13 00:03:31 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/.passwd
+[Wed Dec 13 00:03:32 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/.password
+[Wed Dec 13 00:03:32 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/.htpasswd
+[Wed Dec 13 00:03:32 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/.htaccess
+[Wed Dec 13 00:03:32 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/.passwrd
+[Wed Dec 13 00:03:32 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epoch/.pwd
+[Wed Dec 13 00:03:33 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/ftp.log
+[Wed Dec 13 00:03:33 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epochpassword/
+[Wed Dec 13 00:03:33 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/epochpwd/
+[Wed Dec 13 00:03:33 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/htpasswd.txt
+[Wed Dec 13 00:03:34 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/ibill/
+[Wed Dec 13 00:03:34 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/local/
+[Wed Dec 13 00:03:34 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/log/
+[Wed Dec 13 00:03:34 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/logfile/
+[Wed Dec 13 00:03:34 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/logfiles/
+[Wed Dec 13 00:03:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/main/
+[Wed Dec 13 00:03:35 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/memberfiles/
+[Wed Dec 13 00:03:51 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/pass.txt
+[Wed Dec 13 00:03:53 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/passes/
+[Wed Dec 13 00:03:53 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/passwd.txt
+[Wed Dec 13 00:03:53 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/oordir/
+[Wed Dec 13 00:03:53 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/dat/
+[Wed Dec 13 00:03:53 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/oordir/.htpasswd
+[Wed Dec 13 00:06:49 2000] [error] [client 12.0.251.66] File does not exist: c:/qpong/members/
+[Wed Dec 13 09:41:02 2000] [error] [client 24.15.99.42] File does not exist: c:/qpong/favicon.ico
+[Wed Dec 13 10:38:08 2000] [error] [client 62.159.152.50] File does not exist: c:/qpong/robots.txt
+[Wed Dec 13 17:36:37 2000] [error] [client 24.217.63.195] File does not exist: c:/qpong/favicon.ico
+[Wed Dec 13 19:39:26 2000] [error] [client 204.123.28.33] File does not exist: c:/qpong/robots.txt
+[Fri Dec 15 13:07:02 2000] [error] [client 127.0.0.1] File does not exist: c:/qpong/stats.gif
+[Fri Dec 15 13:07:04 2000] [error] [client 127.0.0.1] File does not exist: c:/qpong/stats.gif
+[Fri Dec 15 15:35:53 2000] [error] [client 24.30.120.53] File does not exist: c:/qpong/incredible
+[Fri Dec 15 15:36:03 2000] [error] [client 24.30.120.53] File does not exist: c:/qpong/incrediblemachine iii.zip
+[Fri Dec 15 17:27:11 2000] [error] [client 24.4.252.77] File does not exist: c:/qpong/favicon.ico
+[Sat Dec 16 02:46:31 2000] [error] [client 209.202.148.30] File does not exist: c:/qpong/robots.txt
+[Fri Dec 22 12:49:22 2000] [error] [client 193.113.185.161] File does not exist: c:/qpong/favicon.ico
+[Fri Dec 22 14:07:33 2000] [error] [client 193.113.185.161] File does not exist: c:/qpong/q3down.htmlÿÿ
+[Sun Dec 24 11:27:26 2000] [error] [client 64.208.37.33] File does not exist: c:/qpong/robots.txt
+[Mon Dec 25 17:27:57 2000] [error] [client 209.202.148.30] File does not exist: c:/qpong/robots.txt
+[Mon Dec 25 19:41:43 2000] [error] [client 64.208.37.69] File does not exist: c:/qpong/robots.txt
+[Mon Dec 25 20:37:50 2000] [error] [client 63.202.21.109] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 25 20:37:51 2000] [error] [client 63.202.21.109] File does not exist: c:/qpong/favicon.ico
+[Mon Dec 25 20:54:19 2000] [error] [client 64.208.37.54] File does not exist: c:/qpong/robots.txt
+[Tue Dec 26 14:43:58 2000] [error] [client 64.208.37.54] File does not exist: c:/qpong/robots.txt
+[Tue Dec 26 17:42:40 2000] [error] [client 64.208.37.79] File does not exist: c:/qpong/robots.txt
+[Wed Dec 27 03:34:41 2000] [error] [client 64.208.37.69] File does not exist: c:/qpong/robots.txt
+[Wed Dec 27 14:39:42 2000] [error] [client 64.208.37.9] File does not exist: c:/qpong/robots.txt
+[Wed Dec 27 17:49:02 2000] [error] [client 64.208.37.45] File does not exist: c:/qpong/robots.txt
+[Fri Dec 29 09:07:25 2000] [error] [client 212.64.97.253] File does not exist: c:/qpong/favicon.ico
+[Sat Dec 30 17:42:26 2000] [error] [client 209.73.164.50] File does not exist: c:/qpong/robots.txt
+[Fri Jan 05 06:12:33 2001] [error] [client 213.51.96.205] File does not exist: c:/qpong/favicon.ico
+[Sun Jan 07 19:17:21 2001] [error] [client 63.61.8.73] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 08 22:04:16 2001] [error] [client 213.221.160.145] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 08 22:04:35 2001] [error] [client 213.221.160.145] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 08 22:15:30 2001] [error] [client 213.221.160.145] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 08 22:15:31 2001] [error] [client 213.221.160.145] File does not exist: c:/qpong/favicon.ico
+[Wed Jan 10 16:10:23 2001] [error] [client 128.6.236.63] File does not exist: c:/qpong/robots.txt
+[Sun Jan 14 09:43:59 2001] [error] [client 62.7.101.1] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 15 21:59:30 2001] [error] [client 62.7.249.12] File does not exist: c:/qpong/favicon.ico
+[Fri Jan 19 00:28:52 2001] [error] [client 62.98.131.224] File does not exist: c:/qpong/favicon.ico
+[Fri Jan 19 03:49:57 2001] [error] [client 209.202.148.30] File does not exist: c:/qpong/robots.txt
+[Fri Jan 19 06:17:06 2001] [error] [client 212.54.90.165] File does not exist: c:/qpong/favicon.ico
+[Fri Jan 19 14:53:15 2001] [error] [client 128.6.236.63] File does not exist: c:/qpong/robots.txt
+[Sat Jan 20 13:52:56 2001] [error] [client 132.239.1.231] File does not exist: c:/qpong/favicon.ico
+[Sun Jan 21 13:31:16 2001] [error] [client 212.126.135.108] File does not exist: c:/qpong/favicon.ico
+[Sun Jan 21 18:50:16 2001] [error] [client 24.191.210.126] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 22 07:33:30 2001] [error] [client 24.25.141.9] File does not exist: c:/qpong/favicon.ico
+[Mon Jan 22 07:33:30 2001] [error] [client 24.25.141.9] File does not exist: c:/qpong/favicon.ico
+[Fri Jan 26 08:02:16 2001] [error] [client 64.208.37.44] File does not exist: c:/qpong/robots.txt
+[Fri Jan 26 08:48:26 2001] [error] [client 64.208.37.34] File does not exist: c:/qpong/robots.txt
+[Sat Jan 27 02:50:28 2001] [error] [client 192.168.0.1] Premature end of script headers: c:/qpong/cgi-bin/counter.exe
+[Sat Jan 27 05:27:18 2001] [error] [client 64.208.37.33] File does not exist: c:/qpong/robots.txt
+[Sat Jan 27 08:05:05 2001] [error] [client 64.208.37.19] File does not exist: c:/qpong/robots.txt
+[Sat Jan 27 16:46:39 2001] [error] [client 192.168.0.1] File does not exist: c:/qpong/favicon.ico
+[Sat Jan 27 21:08:25 2001] [error] [client 24.4.252.8] File does not exist: c:/qpong/favicon.ico
+[Sat Jan 27 22:37:13 2001] [error] [client 193.230.200.252] File does not exist: c:/qpong/favicon.ico
+[Sun Jan 28 05:01:36 2001] [error] [client 64.208.37.168] File does not exist: c:/qpong/robots.txt
+[Sun Jan 28 13:47:07 2001] [error] [client 64.208.37.2] File does not exist: c:/qpong/robots.txt
+[Sun Jan 28 14:02:13 2001] [error] [client 64.208.37.150] File does not exist: c:/qpong/robots.txt
+[Sun Jan 28 21:13:05 2001] [error] [client 24.30.108.137] File does not exist: c:/qpong/favicon.ico
+[Thu Feb 01 17:07:00 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Wed Feb 07 12:39:48 2001] [error] [client 212.170.21.49] File does not exist: c:/qpong/favicon.ico
+[Sun Feb 11 22:20:41 2001] [error] [client 24.147.151.53] File does not exist: c:/qpong/favicon.ico
+[Mon Feb 12 03:03:06 2001] [error] [client 216.34.42.211] File does not exist: c:/qpong/robots.txt
+[Tue Feb 13 13:55:53 2001] [error] [client 217.86.77.41] File does not exist: c:/qpong/favicon.ico
+[Sat Feb 17 04:44:33 2001] [error] [client 216.34.42.211] File does not exist: c:/qpong/robots.txt
+[Tue Feb 20 11:20:04 2001] [error] [client 24.16.213.40] File does not exist: c:/qpong/favicon.ico
+[Tue Feb 20 17:29:35 2001] [error] [client 207.214.214.222] File does not exist: c:/qpong/favicon.ico
+[Wed Feb 21 02:23:18 2001] [error] [client 209.202.148.30] File does not exist: c:/qpong/robots.txt
+[Thu Feb 22 12:32:12 2001] [error] [client 209.247.40.166] File does not exist: c:/qpong/robots.txt
+[Fri Feb 23 20:23:04 2001] [error] [client 128.6.236.63] File does not exist: c:/qpong/robots.txt
+[Fri Feb 23 23:16:46 2001] [error] [client 209.247.40.166] File does not exist: c:/qpong/robots.txt
+[Fri Feb 23 23:28:11 2001] [error] [client 209.247.40.165] File does not exist: c:/qpong/robots.txt
+[Fri Feb 23 23:43:59 2001] [error] [client 209.247.40.168] File does not exist: c:/qpong/robots.txt
+[Fri Feb 23 23:49:41 2001] [error] [client 209.247.40.174] File does not exist: c:/qpong/robots.txt
+[Sat Feb 24 00:07:39 2001] [error] [client 209.247.40.175] File does not exist: c:/qpong/robots.txt
+[Mon Feb 26 00:34:45 2001] [error] [client 24.234.93.83] File does not exist: c:/qpong/favicon.ico
+[Mon Feb 26 00:34:46 2001] [error] [client 24.234.93.83] File does not exist: c:/qpong/favicon.ico
+[Tue Feb 27 15:17:19 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Tue Feb 27 15:50:51 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Tue Feb 27 17:00:12 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Tue Feb 27 17:11:14 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Tue Feb 27 19:46:47 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Tue Feb 27 21:01:30 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Wed Feb 28 10:07:42 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Wed Feb 28 10:34:49 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Wed Feb 28 10:57:10 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Thu Mar 01 03:25:53 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Thu Mar 01 13:47:57 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Thu Mar 01 23:39:44 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Thu Mar 01 23:46:28 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Thu Mar 01 23:54:35 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Fri Mar 02 17:18:28 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Fri Mar 02 21:08:06 2001] [error] [client 209.247.40.166] File does not exist: c:/qpong/robots.txt
+[Sat Mar 03 04:25:54 2001] [error] [client 4.54.218.119] File does not exist: c:/qpong/favicon.ico
+[Sat Mar 03 05:40:03 2001] [error] [client 209.247.40.172] File does not exist: c:/qpong/robots.txt
+[Sat Mar 03 05:51:28 2001] [error] [client 209.247.40.171] File does not exist: c:/qpong/robots.txt
+[Sat Mar 03 10:12:13 2001] [error] [client 209.247.40.172] File does not exist: c:/qpong/robots.txt
+[Sat Mar 03 16:03:21 2001] [error] [client 209.247.40.171] File does not exist: c:/qpong/robots.txt
+[Sat Mar 03 20:07:59 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 20:18:33 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 22:13:59 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 23:24:04 2001] [alert] Apache.exe: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 23:25:27 2001] [alert] Apache.exe: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 23:27:41 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 23:37:43 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sat Mar 03 23:58:38 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 01:51:06 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 12:25:08 2001] [error] [client 209.247.40.171] File does not exist: c:/qpong/robots.txt
+[Sun Mar 04 13:01:28 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:15:03 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:18:21 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:23:39 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:32:49 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:37:58 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:38:30 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:38:39 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:38:52 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:39:09 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:39:23 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:39:28 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:40:15 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:42:45 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 13:49:36 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Sun Mar 04 14:20:34 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 14:30:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 14:50:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 15:00:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 16:10:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 16:20:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 16:39:50 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:40:15 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:40:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 16:40:38 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:41:32 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:41:32 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:41:51 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:42:16 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:42:40 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:43:11 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:43:28 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:43:53 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:44:19 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:44:42 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:45:06 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:45:31 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:45:55 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:46:20 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:46:44 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:47:09 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:47:33 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:47:57 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:48:22 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:48:46 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:49:11 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:49:35 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:50:06 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:50:24 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:50:55 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:51:13 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:51:38 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:52:02 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:52:26 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:52:57 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:53:15 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:53:40 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:54:04 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:54:29 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:54:59 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:55:17 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:55:45 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:56:14 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:56:37 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:57:01 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:57:20 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:57:45 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:58:15 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:58:33 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:58:58 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:59:22 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 16:59:47 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:00:11 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:00:36 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:01:00 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:01:24 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:01:49 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:02:14 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:02:38 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:03:04 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:03:27 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:03:52 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:04:16 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:04:47 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:05:12 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:05:29 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:05:54 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:06:19 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:06:43 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:07:08 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:07:32 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:07:56 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:08:27 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:08:45 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:09:10 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:09:34 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:09:58 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:10:24 2001] [error] [client 24.2.10.37] File does not exist: c:/qpong/speedometer.txt
+[Sun Mar 04 17:30:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 17:50:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 18:20:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 18:30:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 19:10:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 19:30:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 19:50:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 20:10:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 20:40:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 21:00:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 21:10:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 21:30:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 22:10:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 22:20:38 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 22:40:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 23:00:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 23:10:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 23:30:37 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Sun Mar 04 23:40:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 00:10:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 00:40:36 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 00:50:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 01:20:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 01:30:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 01:40:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 01:50:34 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 02:00:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 02:20:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 02:40:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 02:50:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 03:00:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 03:10:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 03:40:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 04:00:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 04:10:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 04:30:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 04:50:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 05:10:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 05:20:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 06:00:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 06:20:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 06:30:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 07:20:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 07:30:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 07:50:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 08:10:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 09:00:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 09:20:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 10:00:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 10:20:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 10:40:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 10:50:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 11:01:38 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 11:10:36 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 11:20:29 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 11:31:38 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 11:41:38 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 11:50:28 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 12:00:28 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 12:10:28 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 12:20:47 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 12:30:28 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 12:40:28 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 12:50:28 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 13:16:57 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Mon Mar 05 13:47:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 13:57:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 14:07:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 14:17:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 14:27:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 14:37:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 14:47:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 15:27:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 16:17:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 16:47:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 17:17:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 17:57:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 18:07:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 18:17:42 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 18:27:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 18:37:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 18:47:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 19:27:41 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 19:37:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 19:57:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 20:17:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 20:57:20 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 21:17:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 21:27:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 22:07:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 22:17:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 22:27:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 22:47:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 22:50:37 2001] [error] [client 209.73.164.40] File does not exist: c:/qpong/robots.txt
+[Mon Mar 05 23:17:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Mon Mar 05 23:27:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 00:07:37 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 00:27:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 00:47:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 00:57:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 01:07:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 01:17:35 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 01:48:37 2001] [error] [client 216.239.46.30] File does not exist: c:/qpong/robots.txt
+[Tue Mar 06 02:17:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 02:37:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 02:47:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 03:07:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 03:27:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 03:37:33 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 03:47:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 03:57:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 04:07:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 04:37:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 04:47:32 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 04:51:58 2001] [error] [client 216.239.46.150] File does not exist: c:/qpong/robots.txt
+[Tue Mar 06 04:55:32 2001] [error] [client 216.239.46.41] File does not exist: c:/qpong/robots.txt
+[Tue Mar 06 05:27:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 05:47:18 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 05:57:31 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 06:07:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 06:27:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 06:57:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 07:07:30 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 07:17:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 07:37:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 07:57:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 08:57:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 09:17:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 09:27:27 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 09:50:02 2001] [error] [client 216.239.46.39] File does not exist: c:/qpong/robots.txt
+[Tue Mar 06 09:57:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 10:07:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 10:47:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 11:27:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 11:57:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 12:37:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 12:57:24 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 13:37:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 13:47:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 14:27:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 15:07:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 15:27:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 15:57:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 16:27:21 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 16:37:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 16:47:16 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 17:37:19 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 18:27:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 18:37:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 18:57:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 19:07:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 19:27:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 19:37:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 19:57:17 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 20:07:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 20:37:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 20:57:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 21:17:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 22:07:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 22:27:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 22:37:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 22:47:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 23:07:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 23:27:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 23:37:14 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 23:47:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Tue Mar 06 23:57:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 00:07:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 00:17:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 00:47:15 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 01:07:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 01:47:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 01:57:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 02:17:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 02:37:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 02:47:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 02:57:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 03:07:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 03:47:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 04:07:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 04:17:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 04:27:13 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 04:37:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 04:47:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 04:57:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 05:07:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 05:17:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 05:27:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 05:57:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 06:17:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 06:27:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 06:47:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 07:37:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 08:07:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 08:27:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 08:47:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 09:07:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 09:17:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 09:57:12 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 11:27:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 11:37:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 11:47:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 11:57:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 12:37:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 12:47:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 13:27:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 13:37:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 13:47:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 13:57:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 14:27:11 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 14:37:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 14:57:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 15:37:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 16:27:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 16:37:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 17:17:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 17:57:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 18:17:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 18:27:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 18:37:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 18:47:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 18:57:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 19:07:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 19:27:10 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 19:37:09 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 20:07:09 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+                                                                                   [Wed Mar 07 20:17:53 2001] [alert] APACHE.EXE: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName
+[Wed Mar 07 21:27:24 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 21:37:23 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 21:47:23 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 21:57:23 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 22:07:23 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini
+[Wed Mar 07 22:27:23 2001] [error] [client 127.0.0.1] File does not exist: c:/qpong/project.ini

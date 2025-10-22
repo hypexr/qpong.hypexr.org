@@ -1,0 +1,21 @@
+// Shared menu for all QPONG pages
+document.write('<tr>');
+document.write('  <td width="100%">');
+document.write('    <p align="center"><img border="0" src="mmtop.jpg" width="175" height="86"></td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('  <td width="100%">');
+document.write('    <p align="center"><a href="index.html"><img border="0" src="mmmain.jpg" width="175" height="33"></a></td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('  <td width="100%">');
+document.write('    <p align="center"><a href="download.html"><img border="0" src="mmdownload.jpg" width="175" height="33"></a></td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('  <td width="100%">');
+document.write('    <p align="center"><a href="screenshots.html"><img border="0" src="mmscreenshots.jpg" width="175" height="33"></a></td>');
+document.write('</tr>');
+document.write('<tr>');
+document.write('  <td width="100%">');
+document.write('    <p align="center"><img border="0" src="mmbottom.jpg" width="175" height="20"></td>');
+document.write('</tr>');

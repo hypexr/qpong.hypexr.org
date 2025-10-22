@@ -1,0 +1,48 @@
+Movie Report
+------------
+
+Frame #    Frame Bytes    Total Bytes    Page
+-------    -----------    -----------    ---------------
+    1            34             34        Scene 1
+    2             2             36          2
+    3             2             38          3
+    4             2             40          4
+    5             2             42          5
+    6             2             44          6
+    7             2             46          7
+    8             2             48          8
+    9             2             50          9
+   10             2             52          10
+   11             2             54          11
+   12             2             56          12
+   13         67424          67480          13
+   14            12          67492          14
+   15            12          67504          15
+   16            12          67516          16
+   17            37          67553          17
+   18            10          67563          18
+   19          4005          71568          19
+   20            16          71584          20
+   21            16          71600          21
+   22            16          71616          22
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                           0             0
+
+Embedded Objects                 60             0
+
+Symbol                     Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Tween 1                           0             0
+
+Bitmap                     Compressed  Original    Compression
+-----------------------    ----------  ----------  ------------
+Bitmap 1                       66078      324800   JPEG Quality=100
+
+Event sounds: 11KHz Mono 16 kbps MP3
+
+Sound Name                 Bytes       Format
+-----------------------    --------    --------
+BONG.WAV                     3967        11KHz Mono 16 kbps MP3
+ROLL2.WAV                    1263        11KHz Mono 16 kbps MP3
